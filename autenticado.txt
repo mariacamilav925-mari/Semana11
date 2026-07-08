@@ -1,0 +1,5 @@
+pregunta 8
+respuesta
+
+
+El login es el proceso que sirve para identificar y verificar a un usuario antes de permitirle entrar a la plataforma. Las rutas protegidas son necesarias porque resguardan información privada, registros internos y acciones que no pueden ser usadas por cualquiera. Así se evita que personas ajenas modifiquen o consulten contenido que no les corresponde. No se deben exponer contraseñas, documentos de identidad, teléfonos, direcciones, claves de acceso ni datos personales sensibles. Mantener esta información oculta protege la privacidad y evita riesgos de uso indebido o robo de datos.
