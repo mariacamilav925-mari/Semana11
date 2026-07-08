@@ -1,0 +1,7 @@
+pregunta 9
+
+respuesta 
+
+
+
+La interfaz cuenta con un formulario para registrar nuevas causas, con campos para escribir el título, la descripción y el sector o barrio. Debajo se muestra una lista con todas las causas disponibles, ordenadas de la más reciente a la más antigua. En cada causa aparece un botón para dar apoyo y un contador que indica cuántas personas ya la han respaldado. El diseño es claro y sencillo, solo muestra información pública sin exponer datos privados de los usuarios.
