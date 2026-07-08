@@ -1,0 +1,6 @@
+pregunta 10
+respuesta 
+
+REFLEXIÓN SEMANA 11
+
+Una plataforma de participación ciudadana necesita una base de datos para guardar de forma ordenada y segura todos los reportes, causas y aportes que comparten los vecinos. La autenticación de usuarios es fundamental para identificar a cada persona y garantizar que solo quienes correspondan puedan realizar acciones. Esto evita usos indebidos y da más confianza a la comunidad. La protección de la información es necesaria para resguardar datos personales y evitar su mal uso o difusión indebida. En conjunto, estos elementos hacen que la plataforma sea confiable, transparente y segura para todos los participantes.
